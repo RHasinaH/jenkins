@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
         <p>
-         OK CI/CD <code>src/App.js</code> and save to reload.
+         OK CI/CD <h1>src/App.js</h1>
         </p>
     </div>
   );
